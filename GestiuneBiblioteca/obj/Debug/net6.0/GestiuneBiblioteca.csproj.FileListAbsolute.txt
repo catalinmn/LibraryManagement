@@ -1,0 +1,15 @@
+C:\Project\GestiuneBiblioteca\GestiuneBiblioteca\bin\Debug\net6.0\GestiuneBiblioteca.exe
+C:\Project\GestiuneBiblioteca\GestiuneBiblioteca\bin\Debug\net6.0\GestiuneBiblioteca.deps.json
+C:\Project\GestiuneBiblioteca\GestiuneBiblioteca\bin\Debug\net6.0\GestiuneBiblioteca.runtimeconfig.json
+C:\Project\GestiuneBiblioteca\GestiuneBiblioteca\bin\Debug\net6.0\GestiuneBiblioteca.dll
+C:\Project\GestiuneBiblioteca\GestiuneBiblioteca\bin\Debug\net6.0\GestiuneBiblioteca.pdb
+C:\Project\GestiuneBiblioteca\GestiuneBiblioteca\obj\Debug\net6.0\GestiuneBiblioteca.csproj.AssemblyReference.cache
+C:\Project\GestiuneBiblioteca\GestiuneBiblioteca\obj\Debug\net6.0\GestiuneBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\GestiuneBiblioteca\GestiuneBiblioteca\obj\Debug\net6.0\GestiuneBiblioteca.AssemblyInfoInputs.cache
+C:\Project\GestiuneBiblioteca\GestiuneBiblioteca\obj\Debug\net6.0\GestiuneBiblioteca.AssemblyInfo.cs
+C:\Project\GestiuneBiblioteca\GestiuneBiblioteca\obj\Debug\net6.0\GestiuneBiblioteca.csproj.CoreCompileInputs.cache
+C:\Project\GestiuneBiblioteca\GestiuneBiblioteca\obj\Debug\net6.0\GestiuneBiblioteca.dll
+C:\Project\GestiuneBiblioteca\GestiuneBiblioteca\obj\Debug\net6.0\refint\GestiuneBiblioteca.dll
+C:\Project\GestiuneBiblioteca\GestiuneBiblioteca\obj\Debug\net6.0\GestiuneBiblioteca.pdb
+C:\Project\GestiuneBiblioteca\GestiuneBiblioteca\obj\Debug\net6.0\GestiuneBiblioteca.genruntimeconfig.cache
+C:\Project\GestiuneBiblioteca\GestiuneBiblioteca\obj\Debug\net6.0\ref\GestiuneBiblioteca.dll
